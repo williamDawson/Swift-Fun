@@ -3,9 +3,9 @@
 //  Swift Fun
 //
 //  Created by William Dawson on 7/25/17.
-//  Copyright © 2017 OneWordMedia. All rights reserved.
+//  Copyright © 2017 OneWordMedia. All rights reserved..
 //
-
+// just a test of git
 import UIKit
 
 class ViewController: UIViewController {
